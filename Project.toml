@@ -1,0 +1,7 @@
+name = "PackageExample"
+uuid = "8219874e-e3f2-11e8-1737-e96b1e51842f"
+authors = ["Thibaut Lienart <tlienart@me.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
